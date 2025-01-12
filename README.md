@@ -20,9 +20,9 @@ pip install browser-use
 playwright install
 ```
 
-Spin up your agent:
+Spin up your agent (test.py):
 
-```python test.py
+```python 
 from langchain_openai import ChatOpenAI
 from browser_use import Agent
 import asyncio
