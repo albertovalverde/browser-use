@@ -1,6 +1,6 @@
-### Enable AI to control your browser 🤖
+# Enable AI to control your browser 🤖
 
-# Quick start
+## Quick start
 
 With pip:
 
@@ -42,7 +42,7 @@ OPENAI_API_KEY=
 
 For other settings, models, and more, check out the [documentation 📕](https://docs.browser-use.com).
 
-### Test with UI
+## Test with UI
 
 You can test [browser-use with a UI repository](https://github.com/browser-use/web-ui)
 
