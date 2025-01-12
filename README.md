@@ -1,5 +1,5 @@
 # Browser-use Researching from Main Repository
-Research based on the original Browser-use repository.
+Research based on Browser-use library.
 
 This repository serves as the foundation for building intelligent agents that interact with websites, enabling tasks such as extracting relevant information from web pages and automating processes. The research focuses on applying these technologies to optimize tasks related to monitoring legislative changes, as demonstrated in the example of monitoring the Boletín Oficial del Estado (BOE).
 
