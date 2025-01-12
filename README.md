@@ -22,7 +22,7 @@ playwright install
 
 Spin up your agent:
 
-```python
+```python test.py
 from langchain_openai import ChatOpenAI
 from browser_use import Agent
 import asyncio
