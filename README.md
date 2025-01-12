@@ -1,5 +1,4 @@
-# browser-use
-Enable AI to control your browser 🤖
+### Enable AI to control your browser 🤖
 
 # Quick start
 
