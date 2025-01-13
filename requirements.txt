@@ -13,3 +13,4 @@ requests
 posthog
 playwright
 browser-use
+
